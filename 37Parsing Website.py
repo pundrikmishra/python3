@@ -19,3 +19,5 @@ for eachp in paragraph:
     print(paragraph)
     # saveFile=open('withp.txt','w')
     # saveFile.write(str(paragraph))
+
+input("Press any key to exit!")
